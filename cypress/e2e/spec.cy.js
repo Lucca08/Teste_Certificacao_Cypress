@@ -1,4 +1,4 @@
-describe('Certificação - APPRBS', () => {
+describe('Certificação', () => {
 
   beforeEach(() => {
     cy.visit('https://qualidade.apprbs.com.br/certificacao')
